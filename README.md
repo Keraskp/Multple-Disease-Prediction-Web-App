@@ -1,9 +1,13 @@
 # Multiple-Disease-Prediction-Web-App
 Multiple Disease Prediction is Machine Learning web application which is able to predict whether a person is suffering from a particular disease. Link to web app  : [https://multidiseasepred.herokuapp.com/](https://multidiseasepred.herokuapp.com/)
-The Disease predict include :
+
+The diseases predicted by the web app include :
 - Diabetes
 - Heart Disease
 - Parkinsons Disease
+
+**Languages Used :**
+<p> <img height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></p>
 
 **Libraries Used :** 
 <p>
@@ -32,7 +36,7 @@ The Web App was made with [Streamlit](https://streamlit.io/) and Deployed on [He
 
 ---
 
-### Heart Disease Prediction :**
+### Heart Disease Prediction :
 - Dataset used : [UCI Heart Disease Dataset](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data)
 - Machine Learning Model : Logistic Regression
 
